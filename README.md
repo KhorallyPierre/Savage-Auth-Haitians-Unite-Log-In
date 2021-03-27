@@ -1,4 +1,4 @@
-# Khorallys-21 Real Haitians Unite (Savage Auth)
+# Khorallys-21 Real Haitians Unite
 
 Welcome to my Savage Demo APP! I a theme related to my birth country (Haiti) to add some originality and pride. Here, users can add a message, then give it a thumbs up, thumbs down, or delete it. I like the theme of Haitians having a platform to connect with each other and ask for advice.
 
