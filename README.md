@@ -1,6 +1,6 @@
-# Real Haitians Unite
+# Khorallys-21 Real Haitians Unite (Savage Auth)
 
-Welcome to my Savage Demo APP! I a theme related to my birth country (Haiti) to add some originality and pride. Here, users can add a message, then give it a thumbs up, thumbs down, or delete it. I like the theme of Haitians having a platform to connect with each other and ask for advice.
+Welcome to my Savage Demo APP! I a theme related to my birth country (Haiti) to add some originality and pride. Here, users can add a message, then give it a thumbs up, thumbs down, or delete it. I like the theme of Haitians having a platform to connect with each other and ask for advice. Feel free to try out the live version [here](https://savageauth.herokuapp.com/)
 
 ![Real Haitians Unite](background2.jpg)
 
